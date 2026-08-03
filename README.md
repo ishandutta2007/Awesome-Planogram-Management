@@ -1,5 +1,9 @@
 # Awesome-Planogram-Management
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Planogram Management Banner" width="100%" />
+</p>
+
 ## Similar Projects to Planogram Management Software
 
 **Planogram Management Software** (also called Space Planning or Shelf Planning tools) helps retailers and CPG brands design, visualize, optimize, and execute product placements on store shelves. Features typically include 2D/3D shelf layouts, product libraries with dimensions, financial analysis, compliance checking, and integration with category management and sales data. Leading commercial platforms include Blue Yonder Category Management, Nielsen Spaceman, DotActiv, Quant, RELEX Space Planning, PlanoHero, SmartDraw Planograms, Scorpion Planogram, JDA Space Planning, and Space Planning by SymphonyAI.
