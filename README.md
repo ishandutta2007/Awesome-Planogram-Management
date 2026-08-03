@@ -22,19 +22,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Specialized / Research Planogram & Shelf Optimization
-- **Shelf-Space-Allocation (R package)** — Academic open-source R package for retail shelf-space optimization. Supports data import, optimization algorithms, and basic planogram visualization. Developed for grocery retail research use cases.
-- Small GitHub projects for planogram generation and 3D shelf visualization (e.g., community prototypes that allow designing fixtures and placing products with capacity calculations).
-- Optimization scripts and knapsack-style solvers (Python/R) that allocate products to shelves based on profit, facings, and space constraints — useful building blocks rather than complete applications.
+### ⭐️ Open-Source Repositories (Sorted by Star Count)
+- **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) — Open-source 3D parametric modeler, sometimes adapted for detailed fixture and shelf visualization.
+- **[Blender](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) — Open-source 3D modeling suite adapted for 3D shelf layouts and store walkthrough visualizations.
+- **[QGIS](https://github.com/qgis/QGIS)** [![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers) — Powerful open-source Geographic Information System (GIS) supporting store clustering, catchment analysis, and spatial aspects of category management.
+- **[Draw.io (diagrams.net)](https://github.com/jgraph/drawio)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers) — Free diagramming tool that can be used to create basic 2D planograms and shelf layouts.
+- **[Inkscape](https://github.com/inkscape/inkscape)** [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers) — Professional vector graphics editor used for drawing custom shelf planning templates.
+- **[Shelf-Space-Allocation (R package)](https://github.com/dsmirnov88/Shelf-Space-Allocation)** [![GitHub stars](https://img.shields.io/github/stars/dsmirnov88/Shelf-Space-Allocation?style=social&color=white)](https://github.com/dsmirnov88/Shelf-Space-Allocation/stargazers) — Academic open-source R package for retail shelf-space optimization. Developed for grocery retail research.
 
-### General Open-Source Tools That Can Be Adapted
-- **[LibreOffice Draw](https://www.libreoffice.org/discover/draw/)** / **Inkscape** / **[Draw.io (diagrams.net)](https://github.com/jgraph/drawio)** — Free diagramming tools that can be used to create basic 2D planograms and shelf layouts manually.
-- **[FreeCAD](https://www.freecad.org/)** or **Blender** — Open-source 3D modeling tools that advanced users sometimes adapt for detailed fixture and shelf visualization.
-- **[QGIS](https://qgis.org/)** — Powerful open-source GIS that can support store clustering, catchment analysis, and spatial aspects of category management (not shelf-level planograms).
-
-### Emerging & Experimental
-- Proof-of-concept systems that combine open-source components, LLMs, and cloud services to auto-generate structured planogram descriptions from merchandising rules or sales data.
-- Community experiments in retail shelf optimization using computer vision or reinforcement learning (usually research-oriented).
+### 🔬 Emerging, Experimental, & Prototyping Approaches
+- **Small GitHub projects** — Various community prototypes that allow designing fixtures and placing products with capacity calculations.
+- **Optimization scripts & solvers** — Python/R knapsack-style solvers that allocate products to shelves based on profit, facings, and space constraints.
+- **Computer vision & AI experiments** — Community research projects using reinforcement learning or image recognition to analyze retail shelf layouts.
+- **Rule-based LLM generators** — Experimental pipelines using LLMs and structured formats (e.g. JSON/XML) to generate planograms from conversational merchandising guidelines.
+- **[LibreOffice Draw](https://www.libreoffice.org/discover/draw/)** — General free desktop drawing tool that can be manually adapted for basic 2D planogram layouts.
 
 ### Reality Check & Typical Approach
 There is currently **no mature, full-featured open-source alternative** that matches commercial planogram platforms in product libraries, retailer submission formats (.psa/.pln), financial analytics, multi-user collaboration, or in-store execution workflows.
