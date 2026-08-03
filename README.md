@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Planogram Management Banner" width="100%" />
 </p>
 
-## Similar Projects to Planogram Management Software
+## 🎯 Similar Projects to Planogram Management Software
 
 **Planogram Management Software** (also called Space Planning or Shelf Planning tools) helps retailers and CPG brands design, visualize, optimize, and execute product placements on store shelves. Features typically include 2D/3D shelf layouts, product libraries with dimensions, financial analysis, compliance checking, and integration with category management and sales data. Leading commercial platforms include Blue Yonder Category Management, Nielsen Spaceman, DotActiv, Quant, RELEX Space Planning, PlanoHero, SmartDraw Planograms, Scorpion Planogram, JDA Space Planning, and Space Planning by SymphonyAI.
 
@@ -41,7 +41,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - **Rule-based LLM generators** — Experimental pipelines using LLMs and structured formats (e.g. JSON/XML) to generate planograms from conversational merchandising guidelines.
 - **[LibreOffice Draw](https://www.libreoffice.org/discover/draw/)** — General free desktop drawing tool that can be manually adapted for basic 2D planogram layouts.
 
-### Reality Check & Typical Approach
+### ⚠️ Reality Check & Typical Approach
 There is currently **no mature, full-featured open-source alternative** that matches commercial planogram platforms in product libraries, retailer submission formats (.psa/.pln), financial analytics, multi-user collaboration, or in-store execution workflows.
 
 Most organizations that want open-source components currently:
@@ -53,11 +53,11 @@ If you are developing or know of a promising open-source planogram project, cont
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to planograms, retail space planning, shelf optimization, or category management tools.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open tools in retail space planning are still emerging and need community support! 🛒
