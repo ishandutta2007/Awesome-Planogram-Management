@@ -8,17 +8,17 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **[Blue Yonder Category Management / Space Planning](https://blueyonder.com/)** | Enterprise retail planning suite with advanced space and category management capabilities. | Custom / Quote-based (typically starts at ~$100,000/year for enterprise modules) | No free tier; custom demo on request. |
-| **[Nielsen Spaceman](https://nielseniq.com/)** | Long-standing industry-standard planogramming tool tightly integrated with Nielsen data. (now part of Trax / NielsenIQ ecosystem) | Custom / Quote-based | No free tier; custom demo on request. |
-| **[DotActiv](https://www.dotactiv.com/)** | Category management and planogram software popular with retailers and CPG teams. | Paid tiers starting at ~$80/month (Lite) up to ~$400/month | **Free tier available**: Limited to 40 products on a single-drop planogram and 20 AI credits (~10 planograms/month). |
-| **[Quant](https://www.quantretail.com/)** | Space planning and planogram solution focused on retail execution. | Starts at ~€1,200 per user/year (Quant Basic) | No free tier; 14 to 30-day free trial available. |
-| **[RELEX Space Planning](https://www.relexsolutions.com/)** | Part of the RELEX retail planning platform, emphasizing locally optimized planograms and supply-chain integration. | Custom / Quote-based | No free tier; custom demo on request. |
-| **[PlanoHero](https://planohero.com/)** | Modern planogram and shelf management platform with AI-assisted features and mobile execution tools. | Lite plan starts at $199/month; custom enterprise quotes. | No free tier; 14-day free trial available (up to 1,500 SKUs). |
-| **[SmartDraw Planograms](https://www.smartdraw.com/)** | Easy-to-use diagramming tool with planogram templates and drag-and-drop shelf design. | Starts at ~$9.95/month (individual, billed annually) | No free tier; basic free trial available. |
-| **[Scorpion Planogram](https://www.scorpionplanogram.com/)** | Planogram design software with 3D visualization and automation options. | Custom / Quote-based | No free tier; custom demo/trial on request. |
-| **JDA Space Planning** / **Space Planning by SymphonyAI** | Enterprise space planning solutions used by large retail organizations (JDA is Blue Yonder heritage). | Custom / Quote-based | No free tier; custom demo on request. |
+| Platform | Description | Pricing | Free Tier / Trial Limits | Company Size (Est. Revenue/Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Nielsen Spaceman](https://nielseniq.com/)** | Long-standing industry-standard planogramming tool tightly integrated with Nielsen data. (now part of Trax / NielsenIQ ecosystem) | Custom / Quote-based | No free tier; custom demo on request. | ~$3.1B Revenue |
+| **[Blue Yonder Category Management / Space Planning](https://blueyonder.com/)** | Enterprise retail planning suite with advanced space and category management capabilities. | Custom / Quote-based (typically starts at ~$100,000/year for enterprise modules) | No free tier; custom demo on request. | ~$1.1B Revenue / $7.1B Valuation |
+| **JDA Space Planning** / **Space Planning by SymphonyAI** | Enterprise space planning solutions used by large retail organizations (JDA is Blue Yonder heritage). | Custom / Quote-based | No free tier; custom demo on request. | ~$500M+ Revenue (Group) |
+| **[RELEX Space Planning](https://www.relexsolutions.com/)** | Part of the RELEX retail planning platform, emphasizing locally optimized planograms and supply-chain integration. | Custom / Quote-based | No free tier; custom demo on request. | ~$400M+ Revenue / €5B Valuation |
+| **[SmartDraw Planograms](https://www.smartdraw.com/)** | Easy-to-use diagramming tool with planogram templates and drag-and-drop shelf design. | Starts at ~$9.95/month (individual, billed annually) | No free tier; basic free trial available. | ~$25M+ Revenue |
+| **[DotActiv](https://www.dotactiv.com/)** | Category management and planogram software popular with retailers and CPG teams. | Paid tiers starting at ~$80/month (Lite) up to ~$400/month | **Free tier available**: Limited to 40 products on a single-drop planogram and 20 AI credits (~10 planograms/month). | ~$5M+ Revenue |
+| **[Quant](https://www.quantretail.com/)** | Space planning and planogram solution focused on retail execution. | Starts at ~€1,200 per user/year (Quant Basic) | No free tier; 14 to 30-day free trial available. | ~$3M+ Revenue |
+| **[Scorpion Planogram](https://www.scorpionplanogram.com/)** | Planogram design software with 3D visualization and automation options. | Custom / Quote-based | No free tier; custom demo/trial on request. | ~$2M+ Revenue |
+| **[PlanoHero](https://planohero.com/)** | Modern planogram and shelf management platform with AI-assisted features and mobile execution tools. | Lite plan starts at $199/month; custom enterprise quotes. | No free tier; 14-day free trial available (up to 1,500 SKUs). | ~$1.5M+ Revenue |
 
 ## 🔓 Open-Source Software
 
